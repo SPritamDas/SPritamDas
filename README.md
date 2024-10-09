@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shuvendupritamdas)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPritamDas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
 [![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](link_to_your_resume_here)
 
 ## 📝 About Me
@@ -17,22 +17,11 @@ Outside of my professional work, I enjoy exploring new technologies, participati
 
 | **Domain**             | **Concepts**                                                                                                                                              | **Tools**                                                                                          |
 |------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **Statistics**         | ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%23007BFF.svg?style=flat-square&logoColor=white) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-%23007BFF.svg?style=flat-square&logoColor=white) ![Optimization](https://img.shields.io/badge/Optimization-%23007BFF.svg?style=flat-square&logoColor=white)          | ![Minitab](https://img.shields.io/badge/Minitab-%2300BFFF.svg?style=flat-square&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%2300BFFF.svg?style=flat-square&logoColor=white) |
+| **Statistics**         | ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%234B8B3B.svg?style=flat-square&logoColor=white) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-%234B8B3B.svg?style=flat-square&logoColor=white) ![Optimization](https://img.shields.io/badge/Optimization-%234B8B3B.svg?style=flat-square&logoColor=white)          | ![Minitab](https://img.shields.io/badge/Minitab-%2300BFFF.svg?style=flat-square&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%2300BFFF.svg?style=flat-square&logoColor=white) |
 | **Data Analytics**     | ![Data Collection](https://img.shields.io/badge/Data%20Collection-%234B8B3B.svg?style=flat-square&logoColor=white) ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-%234B8B3B.svg?style=flat-square&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%234B8B3B.svg?style=flat-square&logoColor=white)             | ![Python](https://img.shields.io/badge/Python-%233DA639.svg?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234B8B3B.svg?style=flat-square&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233DA639.svg?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%234B8B3B.svg?style=flat-square&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%234B8B3B.svg?style=flat-square&logoColor=white) |
-| **Machine Learning**   | ![Regression](https://img.shields.io/badge/Regression-%23007BFF.svg?style=flat-square&logoColor=white) ![Classification](https://img.shields.io/badge/Classification-%23007BFF.svg?style=flat-square&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-%23007BFF.svg?style=flat-square&logoColor=white) ![Ensemble](https://img.shields.io/badge/Ensemble-%23007BFF.svg?style=flat-square&logoColor=white)    | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23007BFF.svg?style=flat-square&logoColor=white) ![AutoML](https://img.shields.io/badge/AutoML-%23007BFF.svg?style=flat-square&logoColor=white) ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-%23007BFF.svg?style=flat-square&logoColor=white) |
+| **Machine Learning**   | ![Regression](https://img.shields.io/badge/Regression-%234B8B3B.svg?style=flat-square&logoColor=white) ![Classification](https://img.shields.io/badge/Classification-%234B8B3B.svg?style=flat-square&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-%234B8B3B.svg?style=flat-square&logoColor=white) ![Ensemble](https://img.shields.io/badge/Ensemble-%234B8B3B.svg?style=flat-square&logoColor=white)    | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%234B8B3B.svg?style=flat-square&logoColor=white) ![AutoML](https://img.shields.io/badge/AutoML-%234B8B3B.svg?style=flat-square&logoColor=white) ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-%234B8B3B.svg?style=flat-square&logoColor=white) |
 | **Deep Learning**      | ![ANN](https://img.shields.io/badge/ANN-%2300BFFF.svg?style=flat-square&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-%2300BFFF.svg?style=flat-square&logoColor=white) ![RNN](https://img.shields.io/badge/RNN-%2300BFFF.svg?style=flat-square&logoColor=white) ![Autoencoder](https://img.shields.io/badge/Autoencoder-%2300BFFF.svg?style=flat-square&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-%2300BFFF.svg?style=flat-square&logoColor=white) ![Image Processing](https://img.shields.io/badge/Image%20Processing-%2300BFFF.svg?style=flat-square&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-%2300BFFF.svg?style=flat-square&logoColor=white)         | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2300BFFF.svg?style=flat-square&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%2300BFFF.svg?style=flat-square&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%2300BFFF.svg?style=flat-square&logoColor=white)                           |
 | **Generative AI**      | ![LLM](https://img.shields.io/badge/LLM-%2300BFFF.svg?style=flat-square&logoColor=white)                                                                                       |                                                                                                    |
-
----
-
-## 📊 My Project Stats
-
-| **Category**        | **Count**                                                                                           |
-|---------------------|----------------------------------------------------------------------------------------------------|
-| **Machine Learning**| ![ML](https://img.shields.io/badge/Projects%20Count-5-brightgreen?style=flat-square)              |
-| **Deep Learning**   | ![DL](https://img.shields.io/badge/Projects%20Count-3-brightgreen?style=flat-square)              |
-| **NLP**             | ![NLP](https://img.shields.io/badge/Projects%20Count-2-brightgreen?style=flat-square)            |
-| **Generative AI**   | ![Gen AI](https://img.shields.io/badge/Projects%20Count-1-brightgreen?style=flat-square)         |
 
 ---
 
@@ -46,8 +35,6 @@ Outside of my professional work, I enjoy exploring new technologies, participati
 
 **For other projects, click on the links above to explore in detail.**
 
----
-
 ## 📊 My GitHub Stats
 
 ![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical)  
@@ -59,4 +46,3 @@ Outside of my professional work, I enjoy exploring new technologies, participati
 
 I am open to collaborating on innovative projects in **data science** and **machine learning**. Please feel free to reach out!  
 📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
----
