@@ -1,68 +1,97 @@
-# Shuvendu Pritam Das  
-*Data Science | Data Analysis | Optimization*
+# 🌟 Shuvendu Pritam Das
 
-![Data Science Professional GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shuvendupritamdas)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPritamDas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
 
-Welcome to my portfolio! I am **Shuvendu Pritam Das**, a dedicated Data Scientist specializing in **Data Science**, **Data Analysis**, and **Optimization**. My expertise includes **Machine Learning (ML)**, **Deep Learning (DL)**, **Generative AI**, **Large Language Models (LLM)**, **Data Analytics**, and **Data Visualization**.
-
----
-
-## 📊 Technical Skills
-
-| **Category**               | **Skills & Tools**                                                                                     |
-|----------------------------|-------------------------------------------------------------------------------------------------------|
-| **Programming Languages**   | Python, SQL, Java                                                                                     |
-| **Machine Learning**        | Scikit-learn, XGBoost, LightGBM, CatBoost                                                             |
-| **Deep Learning**           | TensorFlow, Keras, PyTorch                                                                            |
-| **Data Visualization**      | Power BI, Tableau, Matplotlib, Seaborn                                                                |
-| **Databases**               | MongoDB, MySQL, PostgreSQL                                                                            |
-| **Development Tools**       | Git, Docker, Jupyter, VS Code                                                                         |
-| **Frameworks**              | Flask, FastAPI                                                                                        |
+👋 **Hello, I'm Shuvendu!**  
+A passionate **Data Scientist** and **Industrial Engineer** with a mission to leverage **data and technology** to solve real-world challenges. With a strong academic foundation and practical experience in **machine learning**, **deep learning**, and **data analytics**, I am committed to driving innovation in every project I undertake.
 
 ---
 
-## 🏆 Achievements
+## 🏫 Education
 
-- Developed AI solutions that improved operational efficiency by **30%** for various businesses.
-- Published research on **Generative AI** applications in the financial sector.
-- Led cross-functional teams to deliver predictive analytics solutions.
+### 🎓 **Indian Institute of Technology (ISM), Dhanbad**  
+**M.Tech in Industrial Engineering**  
+📅 **Graduation Expected:** May 2025 | **CGPA:** 9.34 / 10  
+- Relevant Courses: Machine Learning, Business Analytics, Operations Management
 
----
-
-## 📂 Featured Projects
-
-### 🤖 [Chatbot Development](https://github.com/SPritamDas/Portfolio-Projects/tree/main/Chatbot%20Development)
-- **Description:** Developed an AI-powered chatbot for customer service automation.
-- **Tech Stack:** Python, Hugging Face Transformers, Flask
-- **Outcome:** Achieved a **45% reduction** in customer query resolution time.
+### 🎓 **College of Engineering and Technology, Bhubaneswar**  
+**B.Tech in Mechanical Engineering**  
+📅 May 2017 - May 2021 | **CGPA:** 9.11 / 10
 
 ---
 
-### 🏥 [Pneumonia Detection from Chest X-Rays](https://github.com/SPritamDas/Portfolio-Projects/tree/main/Pneumonia%20Detection)
-- **Description:** Created a model to detect pneumonia from chest X-ray images.
-- **Tech Stack:** Python, TensorFlow, Keras
-- **Outcome:** Achieved **90% accuracy** in detecting pneumonia.
+## 💼 Experience
+
+### 🧑‍💻 **Data Science Intern | Credflow**  
+📅 May 2025 – July 2025 | Noida, Delhi  
+- Built interactive Power BI dashboards to reduce underwriting value gaps by 41%.  
+- Developed scalable credit scorecard models using regression techniques on large datasets (500,000+ observations).
 
 ---
 
-### 📉 [IPO Underpricing Prediction](https://github.com/SPritamDas/Portfolio-Projects/tree/main/IPO%20Underpricing)
-- **Description:** Predicted IPO underpricing using Multi-Layer Perceptron (MLP) and LSTM networks.
-- **Tech Stack:** Python, Pandas, NumPy
-- **Outcome:** Achieved **72% accuracy** in predictions.
+## 🚀 Highlight Projects
+
+### 🔬 **Pneumonia Detection (CNN & DenseNet)**  
+🔗 [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Deep%20Learning/CNN/Pneumonia%20Detection%20from%20Chest%20X-Rays%20Leveraging%20CNN%20and%20DenseNet%20(Transfer%20Learning))  
+- Built a pneumonia detection system with **92.45% accuracy** using deep learning (CNN and DenseNet).  
+- Enhanced diagnostic accuracy through transfer learning and data augmentation.
+
+### 📈 **IPO Underpricing Prediction (MLP & LSTM)**  
+🔗 [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Others/IPO%20Underpricing%20Prediction%20using%20MLP%20and%20LSTM)  
+- Implemented MLP and LSTM models, achieving a **72% accuracy** for predicting IPO underpricing, outperforming traditional models.
+
+### 🌧 **Flood Probability Prediction (Kaggle)**  
+🔗 [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Kaggle%20Competitions/Fload%20Probability%20Predictions)  
+- Designed a Stacking Regressor model that outperformed other ensemble models with an MSE of 0.000379 and R² of 0.855.
 
 ---
 
-## 📧 Get in Touch
+## 🌟 Personal Mission
 
-Feel free to connect with me!
+I’m passionate about the power of **data** and its ability to bring transformative change in industries like **healthcare**, **finance**, and **environmental protection**. Through my academic journey and professional projects, I've come to believe that **data-driven insights** can solve some of the world’s most pressing challenges.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shuvendupritamdas/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shuvendupritamdas181@gmail.com)
+I aim to:
+- **Collaborate** with experts and industry leaders to deliver impactful solutions.
+- **Innovate** with cutting-edge machine learning models to improve decision-making processes.
+- **Share knowledge** and mentor others in the data science community.
 
 ---
 
-## ⭐ Support
+## 🛠️ Skills
 
-If you find my projects helpful, consider giving them a star ⭐️ on GitHub! Your support is appreciated.
+- **Languages**: Python, SQL  
+- **Tools**: Power BI, TensorFlow, Keras, Tableau, MS Excel, Pandas, NumPy  
+- **Frameworks**: Scikit-learn, XGBoost, LightGBM  
+- **Concepts**: Machine Learning, Deep Learning, Computer Vision, NLP, A/B Testing, Project Management
 
-[![GitHub Stars](https://img.shields.io/github/stars/SPritamDas?style=social)](https://github.com/SPritamDas?tab=repositories)
+---
+
+## 🏆 Certifications
+
+- **KPMG Lean Six Sigma Green Belt**  
+- **PwC Switzerland Power BI Job Simulation**
+
+---
+
+## 💬 What Others Say
+
+**Prof. Sandeep Mondal** – Head of the Department, DMS&IE, IIT Dhanbad:  
+*"Shuvendu is an outstanding individual who possesses deep technical expertise and consistently demonstrates leadership in his projects. His ability to think critically and tackle complex challenges is impressive."*
+
+---
+
+## 📊 GitHub Stats
+
+![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Collaborate!
+
+I am open to collaborations in **data science**, **machine learning**, and **AI-driven projects**. Feel free to reach out if you'd like to work together or have a chat about innovative ideas!  
+📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
+
+---
