@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
 
 ## 📝 About Me
-A passionate **Data Scientist** and **Industrial Engineer** specializing in leveraging **data-driven insights** to solve complex challenges. Proficient in **machine learning**, **data visualization**, and **analytics**, with a strong commitment to delivering innovative solutions across various domains.
+I am a dedicated **Data Scientist** and **Industrial Engineer** with a focus on leveraging **data-driven insights** to tackle complex challenges. My expertise lies in **machine learning**, **data visualization**, and **analytics**. I am committed to driving innovative solutions that enhance decision-making processes across various domains.
 
 ---
 
@@ -39,5 +39,5 @@ A passionate **Data Scientist** and **Industrial Engineer** specializing in leve
 
 ## 🤝 Let's Connect and Collaborate!
 
-I’m always open to collaborating on innovative projects in **data science** and **machine learning**. Feel free to reach out!  
+I am open to collaborating on innovative projects in **data science** and **machine learning**. Please feel free to reach out!  
 📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
