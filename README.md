@@ -11,23 +11,43 @@ A passionate **Data Scientist** and **Industrial Engineer** specializing in leve
 
 ## 🔧 My Skill Set
 
-### Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-
-### Machine Learning Techniques
-![Regression](https://img.shields.io/badge/Regression-%233DA639.svg?style=flat-square&logo=python&logoColor=white)
-![Classification](https://img.shields.io/badge/Classification-%23F7931E.svg?style=flat-square&logo=python&logoColor=white)
-![Clustering](https://img.shields.io/badge/Clustering-%233A70B5.svg?style=flat-square&logo=python&logoColor=white)
-![AutoML](https://img.shields.io/badge/AutoML-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
-![Ensemble](https://img.shields.io/badge/Ensemble-%23DB7093.svg?style=flat-square&logo=python&logoColor=white)
-
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6F00.svg?style=flat-square&logo=OpenCV&logoColor=white)
+<table>
+    <tr>
+        <td>
 
 ### Data Analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=PowerBI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=Tableau&logoColor=white)
+
+        </td>
+        <td>
+
+### Machine Learning (ML)
+![Regression](https://img.shields.io/badge/Regression-%233DA639.svg?style=flat-square&logo=python&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-%23F7931E.svg?style=flat-square&logo=python&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-%233A70B5.svg?style=flat-square&logo=python&logoColor=white)
+![Ensemble](https://img.shields.io/badge/Ensemble-%23DB7093.svg?style=flat-square&logo=python&logoColor=white)
+
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+### Deep Learning (DL)
+![ANN](https://img.shields.io/badge/ANN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+![Autoencoder](https://img.shields.io/badge/Autoencoder-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+
+        </td>
+        <td>
+
+### Generative AI (Gen AI)
+![LLM](https://img.shields.io/badge/LLM-%23D00000.svg?style=flat-square&logo=python&logoColor=white)
+
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -51,4 +71,4 @@ A passionate **Data Scientist** and **Industrial Engineer** specializing in leve
 ## 🤝 Let's Connect and Collaborate!
 
 I’m always open to collaborating on innovative projects in **data science** and **machine learning**. Feel free to reach out!  
-📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
+📧 [Email
