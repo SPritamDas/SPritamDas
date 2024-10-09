@@ -48,4 +48,3 @@ Outside of my professional work, I enjoy exploring new technologies, participati
 
 I am open to collaborating on innovative projects in **data science** and **machine learning**. Please feel free to reach out!  
 📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
----
