@@ -5,13 +5,40 @@
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
 [![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](link_to_your_resume_here)
 
+---
+
 ## 📝 About Me
-I am a dedicated **Data Scientist** and **Industrial Engineer** with a passion for transforming data into actionable insights. My journey began at the **Indian Institute of Technology (ISM), Dhanbad**, where I developed expertise in **machine learning**, **data analytics**, and **deep learning**. I believe that data has the power to drive transformative change across industries, and I strive to leverage this potential in every project.
+I am a **Data Scientist** and **Industrial Engineer** passionate about leveraging data to drive impactful decision-making. With a strong academic background from **IIT Dhanbad** and a focus on **Machine Learning**, **Deep Learning**, and **Data Analytics**, I have developed solutions across domains like **finance**, **healthcare**, and **operations**.
+
+I’m excited about harnessing the potential of data for innovative solutions, whether it’s through predictive analytics, generative AI, or advanced optimization techniques.
 
 ### 🌱 Personal Interests
-Outside of my professional work, I enjoy exploring new technologies, participating in hackathons, and mentoring budding data enthusiasts. I am particularly interested in how data science can contribute to **operations**, **finance**, and **sustainability**.
+Outside my professional work, I enjoy participating in hackathons, contributing to open-source projects, and mentoring aspiring data scientists. I also have a strong interest in **sustainable technologies**, **finance**, and **AI ethics**.
 
 ---
+
+## 📜 Certifications
+
+- **PL-300: Microsoft Power BI Data Analyst** 
+- **PL-900: Microsoft Power Platform Fundamentals**
+- **Credit Risk Modelling and Fraud Analytics**
+- **Lean Six Sigma Green Belt (KPMG)**
+- **Tableau Desktop Specialist**
+- **Generative AI with GPT-3 and BERT**
+- **Machine Learning (Coursera - Andrew Ng)**
+
+---
+
+## 🏆 Achievements
+
+- **Generative AI Project:** Improved report generation efficiency by 60% using GPT-3 and BERT models for automated data extraction.
+- **Flood Prediction Model:** Achieved **0.000379 MSE** and **R² score of 0.855** using an ensemble Stacking Regressor model on a dataset of over 100,000 observations.
+- **IPO Underpricing Prediction:** Predicted IPO underpricing with **72% accuracy**, providing key insights for short-term investment strategies using **MLP** and **LSTM** models.
+- **Campus Credit Scorecard:** Developed predictive models for **PD**, **LGD**, and **EAD**, analyzing over 500,000 data points.
+- **Pneumonia Detection:** Created a CNN-based model with **92.45% accuracy** for detecting pneumonia from chest X-ray images.
+
+---
+
 ## 🔧 My Domains, Concepts, and Tools
 
 <table>
@@ -31,23 +58,23 @@ Outside of my professional work, I enjoy exploring new technologies, participati
         <img src="https://img.shields.io/badge/Optimization-%234B8B3B.svg?style=flat-square&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Minitab-%2300BFFF.svg?style=flat-square&logoColor=white" /> 
-        <img src="https://img.shields.io/badge/Excel-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Minitab-%23FF4500.svg?style=flat-square&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Excel-%23FF4500.svg?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr style="background-color:#f2f2f2;">
       <td><b>Data Analytics</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Data%20Collection-%234B8B3B.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data%20Wrangling-%234B8B3B.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data%20Visualization-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Collection-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Wrangling-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Visualization-%2300BFFF.svg?style=flat-square&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Python-%233DA639.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-%234B8B3B.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-%233DA639.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Plotly-%234B8B3B.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Plotly-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-%23FF4500.svg?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr style="background-color:#ffffff;">
@@ -59,9 +86,9 @@ Outside of my professional work, I enjoy exploring new technologies, participati
         <img src="https://img.shields.io/badge/Ensemble-%234B8B3B.svg?style=flat-square&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Scikit--learn-%234B8B3B.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/AutoML-%234B8B3B.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/imbalanced--learn-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--learn-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/AutoML-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/imbalanced--learn-%23FF4500.svg?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr style="background-color:#f2f2f2;">
@@ -76,42 +103,80 @@ Outside of my professional work, I enjoy exploring new technologies, participati
         <img src="https://img.shields.io/badge/NLP-%2300BFFF.svg?style=flat-square&logoColor=white" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/TensorFlow-%2300BFFF.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-%2300BFFF.svg?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-%23FF4500.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-%23FF4500.svg?style=flat-square&logoColor=white" />
       </td>
     </tr>
     <tr style="background-color:#ffffff;">
       <td><b>Generative AI</b></td>
       <td>
-        <img src="https://img.shields.io/badge/LLM-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM-%234B8B3B.svg?style=flat-square&logoColor=white" />
       </td>
-      <td>
-      </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 ---
 
-## 🚀 Highlighted Projects
+## 📊 Featured Projects
 
-| **Project**                                                          | **Description**                                                                                          | **Technologies**                                     | **Link**                                                             |
-|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
-| **Pneumonia Detection (CNN & DenseNet)**                            | Developed a deep learning model for pneumonia detection, achieving **92.45% accuracy** on a dataset of over 5,000 images, significantly enhancing diagnostic precision. | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Deep%20Learning/CNN/Pneumonia%20Detection%20from%20Chest%20X-Rays%20Leveraging%20CNN%20and%20DenseNet%20(Transfer%20Learning)) |
-| **IPO Underpricing Prediction (MLP & LSTM)**                        | Predicted IPO underpricing with a **72% accuracy**, providing actionable insights for investment strategies. | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Others/IPO%20Underpricing%20Prediction%20using%20MLP%20and%20LSTM) |
-| **Flood Probability Prediction (Kaggle)**                            | Engineered an ensemble model achieving an MSE of **0.000379** and R² of **0.855**, significantly improving flood risk assessment. | Python, Scikit-learn, XGBoost                       | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Kaggle%20Competitions/Fload%20Probability%20Predictions) |
-
-**For other projects, click on the links above to explore in detail.**
-
-## 📊 My GitHub Stats
-
-![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
+<table>
+  <thead>
+    <tr>
+      <th><b>Project</b></th>
+      <th><b>Description</b></th>
+      <th><b>Tech Stack</b></th>
+      <th><b>Link</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#f2f2f2;">
+      <td>📈 <b>Chatbot Development</b></td>
+      <td>Developed an AI chatbot to enhance customer experience and automate FAQ responses.</td>
+      <td>Python, NLP, TensorFlow</td>
+      <td>[View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)</td>
+    </tr>
+    <tr style="background-color:#ffffff;">
+      <td>🩺 <b>Pneumonia Detection from Chest X-rays</b></td>
+      <td>Created a deep learning model to identify pneumonia in chest X-rays with **92.45% accuracy**.</td>
+      <td>Python, TensorFlow, Keras, OpenCV</td>
+      <td>[View Project](https://github.com/SPritamDas/My-Projects/tree/main/Medical/Pneumonia%20Detection)</td>
+    </tr>
+    <tr style="background-color:#f2f2f2;">
+      <td>🧬 <b>Histopathologic Cancer Detection</b></td>
+      <td>Developed a CNN model for histopathological cancer detection.</td>
+      <td>Python, TensorFlow, Keras</td>
+      <td>[View Project](https://github.com/SPritamDas/My-Projects/tree/main/Medical/Cancer%20Detection)</td>
+    </tr>
+    <tr style="background-color:#ffffff;">
+      <td>📉 <b>IPO Underpricing Prediction</b></td>
+      <td>Predicted IPO underpricing using MLP and LSTM models with **72% accuracy**.</td>
+      <td>Python, Pandas, scikit-learn</td>
+      <td>[View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/IPO%20Underpricing)</td>
+    </tr>
+    <tr style="background-color:#f2f2f2;">
+      <td>📊 <b>Customer Churn Prediction</b></td>
+      <td>Implemented classification models to predict customer churn, achieving significant results.</td>
+      <td>Python, Pandas, scikit-learn</td>
+      <td>[View Project](https://github.com/SPritamDas/My-Projects/tree/main/Business/Customer%20Churn)</td>
+    </tr>
+    <tr style="background-color:#ffffff;">
+      <td>✍️ <b>Handwriting Recognition</b></td>
+      <td>Developed a CNN-based system for recognizing handwritten characters.</td>
+      <td>Python, TensorFlow, Keras</td>
+      <td>[View Project](https://github.com/SPritamDas/My-Projects/tree/main/ML/Handwriting%20Recognition)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🤝 Let's Connect and Collaborate!
+## 📞 Contact Me
 
-I am open to collaborating on innovative projects in **data science** and **machine learning**. Please feel free to reach out!  
-📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
+**Shuvendu Pritam Das**  
+Email: [23mt0389@iitism.ac.in](mailto:23mt0389@iitism.ac.in)  
+Phone: [+91-8895749385](tel:+91-8895749385)  
+LinkedIn: [linkedin.com/in/shuvendupritamdas](https://www.linkedin.com/in/shuvendupritamdas)  
+GitHub: [github.com/SPritamDas](https://github.com/SPritamDas)
