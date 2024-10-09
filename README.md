@@ -5,7 +5,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
 
 ## 📝 About Me
-I am a dedicated **Data Scientist** and **Industrial Engineer** with a focus on leveraging **data-driven insights** to tackle complex challenges. My expertise lies in **machine learning**, **data visualization**, and **analytics**. I am committed to driving innovative solutions that enhance decision-making processes across various domains.
+I am a dedicated **Data Scientist** and **Industrial Engineer** with a passion for turning data into actionable insights. My journey began at the **Indian Institute of Technology (ISM), Dhanbad**, where I honed my skills in **machine learning**, **data analytics**, and **deep learning**. I believe that data has the power to transform industries, and I strive to leverage this potential in my projects.
+
+### 🌱 Personal Interests
+Outside of work, I enjoy exploring new technologies, participating in hackathons, and mentoring budding data enthusiasts. I'm particularly interested in how data science can contribute to **healthcare** and **sustainability**.
 
 ---
 
@@ -24,9 +27,9 @@ I am a dedicated **Data Scientist** and **Industrial Engineer** with a focus on 
 
 | **Project**                                                          | **Description**                                                                                          | **Technologies**                                     | **Link**                                                             |
 |---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
-| **Pneumonia Detection (CNN & DenseNet)**                            | Developed a deep learning model for pneumonia detection with **92.45% accuracy**.                       | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Deep%20Learning/CNN/Pneumonia%20Detection%20from%20Chest%20X-Rays%20Leveraging%20CNN%20and%20DenseNet%20(Transfer%20Learning)) |
-| **IPO Underpricing Prediction (MLP & LSTM)**                        | Predicted IPO underpricing with a **72% accuracy** using MLP and LSTM models.                           | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Others/IPO%20Underpricing%20Prediction%20using%20MLP%20and%20LSTM) |
-| **Flood Probability Prediction (Kaggle)**                            | Created an ensemble model achieving an MSE of 0.000379 and R² of 0.855 for flood probability prediction. | Python, Scikit-learn, XGBoost                       | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Kaggle%20Competitions/Fload%20Probability%20Predictions) |
+| **Pneumonia Detection (CNN & DenseNet)**                            | Developed a deep learning model for pneumonia detection, achieving **92.45% accuracy** on a dataset of over 5,000 images, enhancing diagnostic precision. | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Deep%20Learning/CNN/Pneumonia%20Detection%20from%20Chest%20X-Rays%20Leveraging%20CNN%20and%20DenseNet%20(Transfer%20Learning)) |
+| **IPO Underpricing Prediction (MLP & LSTM)**                        | Predicted IPO underpricing with a **72% accuracy**, providing actionable insights for investment strategies. | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Others/IPO%20Underpricing%20Prediction%20using%20MLP%20and%20LSTM) |
+| **Flood Probability Prediction (Kaggle)**                            | Engineered an ensemble model achieving an MSE of **0.000379** and R² of **0.855**, significantly improving flood risk assessment. | Python, Scikit-learn, XGBoost                       | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Kaggle%20Competitions/Fload%20Probability%20Predictions) |
 
 ---
 
