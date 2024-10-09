@@ -8,7 +8,7 @@
 I am a dedicated **Data Scientist** and **Industrial Engineer** with a passion for transforming data into actionable insights. My journey began at the **Indian Institute of Technology (ISM), Dhanbad**, where I developed expertise in **machine learning**, **data analytics**, and **deep learning**. I believe that data has the power to drive transformative change across industries, and I strive to leverage this potential in every project.
 
 ### 🌱 Personal Interests
-Outside of my professional work, I enjoy exploring new technologies, participating in hackathons, and mentoring budding data enthusiasts. I am particularly interested in how data science can contribute to **healthcare** and **sustainability**.
+Outside of my professional work, I enjoy exploring new technologies, participating in hackathons, and mentoring budding data enthusiasts. I am particularly interested in how data science can contribute to **opeartions**, **finance** and **sustainability**.
 
 ---
 
