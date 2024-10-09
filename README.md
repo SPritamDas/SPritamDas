@@ -1,69 +1,83 @@
-# 🌟 Shuvendu Pritam Das
+# Shuvendu Pritam Das  
+*Data Science | Data Analysis | Optimization*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shuvendupritamdas)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPritamDas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
+![Data Science Professional GIF](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-## 📝 About Me
-A passionate **Data Scientist** and **Industrial Engineer** specializing in leveraging **data-driven insights** to solve complex challenges. Proficient in **machine learning**, **data visualization**, and **analytics**, with a strong commitment to delivering innovative solutions across various domains.
+Welcome to my portfolio! I am **Shuvendu Pritam Das**, a dedicated Data Scientist specializing in **Data Science**, **Data Analysis**, and **Optimization**. My expertise includes **Machine Learning (ML)**, **Deep Learning (DL)**, **Generative AI**, **Large Language Models (LLM)**, **Data Analytics**, and **Data Visualization**.
 
 ---
 
-## 🔧 My Skill Set
+## 📊 Technical Skills
+
+### Generative AI
+- **Technologies:** LLM, Chatbot Development, BERT
+
+### Deep Learning
+- **Models:** 
+  - Artificial Neural Networks (ANN)
+  - Convolutional Neural Networks (CNN)
+  - Recurrent Neural Networks (RNN)
+  - Autoencoders
+  - Transformers
+
+### Machine Learning
+- **Techniques:** 
+  - Regression
+  - Classification
+  - Clustering
+  - Ensemble Methods
+  - AutoML
 
 ### Data Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=PowerBI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=Tableau&logoColor=white)
-
-### Machine Learning (ML)
-![Regression](https://img.shields.io/badge/Regression-%233DA639.svg?style=flat-square&logo=python&logoColor=white)
-![Classification](https://img.shields.io/badge/Classification-%23F7931E.svg?style=flat-square&logo=python&logoColor=white)
-![Clustering](https://img.shields.io/badge/Clustering-%233A70B5.svg?style=flat-square&logo=python&logoColor=white)
-![Ensemble](https://img.shields.io/badge/Ensemble-%23DB7093.svg?style=flat-square&logo=python&logoColor=white)
-
-### Deep Learning (DL)
-![ANN](https://img.shields.io/badge/ANN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
-![RNN](https://img.shields.io/badge/RNN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
-![Autoencoder](https://img.shields.io/badge/Autoencoder-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
-
-### Generative AI (Gen AI)
-![LLM](https://img.shields.io/badge/LLM-%23D00000.svg?style=flat-square&logo=python&logoColor=white)
+- **Skills:** 
+  - Data Wrangling
+  - Data Visualization
+  - SQL
 
 ---
 
-## 🚀 Highlighted Projects
+## 🏆 Achievements
 
-<table>
-    <tr>
-        <td>
-
-| **Project**                                                          | **Description**                                                                                          | **Technologies**                                     | **Link**                                                             |
-|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
-| **Pneumonia Detection (CNN & DenseNet)**                            | Developed a deep learning model for pneumonia detection with **92.45% accuracy**.                       | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Deep%20Learning/CNN/Pneumonia%20Detection%20from%20Chest%20X-Rays%20Leveraging%20CNN%20and%20DenseNet%20(Transfer%20Learning)) |
-
-        </td>
-        <td>
-
-| **Project**                                                          | **Description**                                                                                          | **Technologies**                                     | **Link**                                                             |
-|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
-| **IPO Underpricing Prediction (MLP & LSTM)**                        | Predicted IPO underpricing with a **72% accuracy** using MLP and LSTM models.                           | Python, TensorFlow, Keras                           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Others/IPO%20Underpricing%20Prediction%20using%20MLP%20and%20LSTM) |
-| **Flood Probability Prediction (Kaggle)**                            | Created an ensemble model achieving an MSE of 0.000379 and R² of 0.855 for flood probability prediction. | Python, Scikit-learn, XGBoost                       | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Kaggle%20Competitions/Fload%20Probability%20Predictions) |
-
-        </td>
-    </tr>
-</table>
+- Developed AI solutions that improved operational efficiency by **30%** for various businesses.
+- Published research on **Generative AI** applications in the financial sector.
+- Led cross-functional teams to deliver predictive analytics solutions.
 
 ---
 
-## 📊 My GitHub Stats
+## 📂 Featured Projects
 
-![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
+### 🤖 [Chatbot Development](https://github.com/SPritamDas/Portfolio-Projects/tree/main/Chatbot%20Development)
+- **Description:** Developed an AI-powered chatbot for customer service automation.
+- **Tech Stack:** Python, Hugging Face Transformers, Flask
+- **Outcome:** Achieved a **45% reduction** in customer query resolution time.
 
 ---
 
-## 🤝 Let's Connect and Collaborate!
+### 🏥 [Pneumonia Detection from Chest X-Rays](https://github.com/SPritamDas/Portfolio-Projects/tree/main/Pneumonia%20Detection)
+- **Description:** Created a model to detect pneumonia from chest X-ray images.
+- **Tech Stack:** Python, TensorFlow, Keras
+- **Outcome:** Achieved **90% accuracy** in detecting pneumonia.
 
-I’m always open to collaborating on innovative projects in **data science** and **machine learning**. Feel free to reach out!  
-📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
+---
+
+### 📉 [IPO Underpricing Prediction](https://github.com/SPritamDas/Portfolio-Projects/tree/main/IPO%20Underpricing)
+- **Description:** Predicted IPO underpricing using Multi-Layer Perceptron (MLP) and LSTM networks.
+- **Tech Stack:** Python, Pandas, NumPy
+- **Outcome:** Achieved **72% accuracy** in predictions.
+
+---
+
+## 📧 Get in Touch
+
+Feel free to connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shuvendupritamdas/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shuvendupritamdas181@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you find my projects helpful, consider giving them a star ⭐️ on GitHub! Your support is appreciated.
+
+[![GitHub Stars](https://img.shields.io/github/stars/SPritamDas?style=social)](https://github.com/SPritamDas?tab=repositories)
