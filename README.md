@@ -17,28 +17,6 @@ Outside my professional work, I enjoy participating in hackathons, contributing 
 
 ---
 
-## 📜 Certifications
-
-- **PL-300: Microsoft Power BI Data Analyst** 
-- **PL-900: Microsoft Power Platform Fundamentals**
-- **Credit Risk Modelling and Fraud Analytics**
-- **Lean Six Sigma Green Belt (KPMG)**
-- **Tableau Desktop Specialist**
-- **Generative AI with GPT-3 and BERT**
-- **Machine Learning (Coursera - Andrew Ng)**
-
----
-
-## 🏆 Achievements
-
-- **Generative AI Project:** Improved report generation efficiency by 60% using GPT-3 and BERT models for automated data extraction.
-- **Flood Prediction Model:** Achieved **0.000379 MSE** and **R² score of 0.855** using an ensemble Stacking Regressor model on a dataset of over 100,000 observations.
-- **IPO Underpricing Prediction:** Predicted IPO underpricing with **72% accuracy**, providing key insights for short-term investment strategies using **MLP** and **LSTM** models.
-- **Campus Credit Scorecard:** Developed predictive models for **PD**, **LGD**, and **EAD**, analyzing over 500,000 data points.
-- **Pneumonia Detection:** Created a CNN-based model with **92.45% accuracy** for detecting pneumonia from chest X-ray images.
-
----
-
 ## 🔧 My Domains, Concepts, and Tools
 
 <table>
