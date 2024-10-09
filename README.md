@@ -14,13 +14,83 @@ Outside of my professional work, I enjoy exploring new technologies, participati
 ---
 ## 🔧 My Domains, Concepts, and Tools
 
-| **Domain**             | **Concepts**                                                                                                                                              | **Tools**                                                                                          |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **Statistics**         | ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-%234B8B3B.svg?style=flat-square&logoColor=white) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-%234B8B3B.svg?style=flat-square&logoColor=white) ![Optimization](https://img.shields.io/badge/Optimization-%234B8B3B.svg?style=flat-square&logoColor=white)          | ![Minitab](https://img.shields.io/badge/Minitab-%2300BFFF.svg?style=flat-square&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%2300BFFF.svg?style=flat-square&logoColor=white) |
-| **Data Analytics**     | ![Data Collection](https://img.shields.io/badge/Data%20Collection-%234B8B3B.svg?style=flat-square&logoColor=white) ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-%234B8B3B.svg?style=flat-square&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-%234B8B3B.svg?style=flat-square&logoColor=white)             | ![Python](https://img.shields.io/badge/Python-%233DA639.svg?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234B8B3B.svg?style=flat-square&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233DA639.svg?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%234B8B3B.svg?style=flat-square&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-%234B8B3B.svg?style=flat-square&logoColor=white) |
-| **Machine Learning**   | ![Regression](https://img.shields.io/badge/Regression-%234B8B3B.svg?style=flat-square&logoColor=white) ![Classification](https://img.shields.io/badge/Classification-%234B8B3B.svg?style=flat-square&logoColor=white) ![Clustering](https://img.shields.io/badge/Clustering-%234B8B3B.svg?style=flat-square&logoColor=white) ![Ensemble](https://img.shields.io/badge/Ensemble-%234B8B3B.svg?style=flat-square&logoColor=white)    | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%234B8B3B.svg?style=flat-square&logoColor=white) ![AutoML](https://img.shields.io/badge/AutoML-%234B8B3B.svg?style=flat-square&logoColor=white) ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-%234B8B3B.svg?style=flat-square&logoColor=white) |
-| **Deep Learning**      | ![ANN](https://img.shields.io/badge/ANN-%2300BFFF.svg?style=flat-square&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-%2300BFFF.svg?style=flat-square&logoColor=white) ![RNN](https://img.shields.io/badge/RNN-%2300BFFF.svg?style=flat-square&logoColor=white) ![Autoencoder](https://img.shields.io/badge/Autoencoder-%2300BFFF.svg?style=flat-square&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-%2300BFFF.svg?style=flat-square&logoColor=white) ![Image Processing](https://img.shields.io/badge/Image%20Processing-%2300BFFF.svg?style=flat-square&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-%2300BFFF.svg?style=flat-square&logoColor=white)         | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2300BFFF.svg?style=flat-square&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%2300BFFF.svg?style=flat-square&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%2300BFFF.svg?style=flat-square&logoColor=white)                           |
-| **Generative AI**      | ![LLM](https://img.shields.io/badge/LLM-%2300BFFF.svg?style=flat-square&logoColor=white)                                                                                       |                                                                                                    |                                                                         |                                                                                                    |
+<table>
+  <thead>
+    <tr>
+      <th><b>Domain</b></th>
+      <th><b>Concepts</b></th>
+      <th><b>Tools</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#ffffff;">
+      <td><b>Statistics</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Statistical%20Analysis-%234B8B3B.svg?style=flat-square&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Hypothesis%20Testing-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Optimization-%234B8B3B.svg?style=flat-square&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Minitab-%2300BFFF.svg?style=flat-square&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Excel-%2300BFFF.svg?style=flat-square&logoColor=white" />
+      </td>
+    </tr>
+    <tr style="background-color:#f2f2f2;">
+      <td><b>Data Analytics</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Data%20Collection-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Wrangling-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Visualization-%234B8B3B.svg?style=flat-square&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-%233DA639.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-%233DA639.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Plotly-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Excel-%234B8B3B.svg?style=flat-square&logoColor=white" />
+      </td>
+    </tr>
+    <tr style="background-color:#ffffff;">
+      <td><b>Machine Learning</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Regression-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Classification-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clustering-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ensemble-%234B8B3B.svg?style=flat-square&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Scikit--learn-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/AutoML-%234B8B3B.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/imbalanced--learn-%234B8B3B.svg?style=flat-square&logoColor=white" />
+      </td>
+    </tr>
+    <tr style="background-color:#f2f2f2;">
+      <td><b>Deep Learning</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/ANN-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/CNN-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/RNN-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Autoencoder-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Transformers-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Image%20Processing-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-%2300BFFF.svg?style=flat-square&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/TensorFlow-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-%2300BFFF.svg?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-%2300BFFF.svg?style=flat-square&logoColor=white" />
+      </td>
+    </tr>
+    <tr style="background-color:#ffffff;">
+      <td><b>Generative AI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/LLM-%2300BFFF.svg?style=flat-square&logoColor=white" />
+      </td>
+      <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
