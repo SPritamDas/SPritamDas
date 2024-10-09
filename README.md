@@ -4,23 +4,35 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPritamDas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac)
 
-## 📝 Summary
+## 📝 About Me
 A passionate **Data Scientist** and **Industrial Engineer** specializing in leveraging **data-driven insights** to solve complex challenges. Proficient in **machine learning**, **data visualization**, and **analytics**, with a strong commitment to delivering innovative solutions across various domains.
 
 ---
 
-## 🔧 What I Can Do
+## 🔧 My Skill Set
 
-| **Skills**               | **Proficiency**    |
-|--------------------------|--------------------|
-| **Deep Learning**        | TensorFlow, Keras   |
-| **Machine Learning**     | Scikit-learn, XGBoost, LightGBM |
-| **Computer Vision**      | OpenCV, CNNs       |
-| **Data Analytics**       | Power BI, Tableau, Pandas, NumPy |
+### Data Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logo=PowerBI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat-square&logo=Tableau&logoColor=white)
+
+### Machine Learning (ML)
+![Regression](https://img.shields.io/badge/Regression-%233DA639.svg?style=flat-square&logo=python&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-%23F7931E.svg?style=flat-square&logo=python&logoColor=white)
+![Clustering](https://img.shields.io/badge/Clustering-%233A70B5.svg?style=flat-square&logo=python&logoColor=white)
+![Ensemble](https://img.shields.io/badge/Ensemble-%23DB7093.svg?style=flat-square&logo=python&logoColor=white)
+
+### Deep Learning (DL)
+![ANN](https://img.shields.io/badge/ANN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+![Autoencoder](https://img.shields.io/badge/Autoencoder-%23FF6F00.svg?style=flat-square&logo=python&logoColor=white)
+
+### Generative AI (Gen AI)
+![LLM](https://img.shields.io/badge/LLM-%23D00000.svg?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
 | **Project**                                                          | **Description**                                                                                          | **Technologies**                                     | **Link**                                                             |
 |---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------|
@@ -30,14 +42,14 @@ A passionate **Data Scientist** and **Industrial Engineer** specializing in leve
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 ![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Connect and Collaborate!
 
 I’m always open to collaborating on innovative projects in **data science** and **machine learning**. Feel free to reach out!  
 📧 [Email](mailto:23mt0389@iitism.ac) | 🔗 [LinkedIn](http://linkedin.com/in/shuvendupritamdas)
