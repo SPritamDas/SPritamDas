@@ -9,38 +9,15 @@ Welcome to my portfolio! I am **Shuvendu Pritam Das**, a dedicated Data Scientis
 
 ## 📊 Technical Skills
 
-### Generative AI
-- **Technologies:** LLM, Chatbot Development, BERT
-
-### Deep Learning
-- **Models:** 
-  - Artificial Neural Networks (ANN)
-  - Convolutional Neural Networks (CNN)
-  - Recurrent Neural Networks (RNN)
-  - Autoencoders
-  - Transformers
-
-### Machine Learning
-- **Techniques:** 
-  - Regression
-  - Classification
-  - Clustering
-  - Ensemble Methods
-  - AutoML
-
-### Data Analytics
-- **Skills:** 
-  - Data Wrangling
-  - Data Visualization
-  - SQL
-
----
-
-## 🏆 Achievements
-
-- Developed AI solutions that improved operational efficiency by **30%** for various businesses.
-- Published research on **Generative AI** applications in the financial sector.
-- Led cross-functional teams to deliver predictive analytics solutions.
+| **Category**               | **Skills & Tools**                                                                                     |
+|----------------------------|-------------------------------------------------------------------------------------------------------|
+| **Programming Languages**   | Python, SQL, Java                                                                                     |
+| **Machine Learning**        | Scikit-learn, XGBoost, LightGBM, CatBoost                                                             |
+| **Deep Learning**           | TensorFlow, Keras, PyTorch                                                                            |
+| **Data Visualization**      | Power BI, Tableau, Matplotlib, Seaborn                                                                |
+| **Databases**               | MongoDB, MySQL, PostgreSQL                                                                            |
+| **Development Tools**       | Git, Docker, Jupyter, VS Code                                                                         |
+| **Frameworks**              | Flask, FastAPI                                                                                        |
 
 ---
 
@@ -81,3 +58,4 @@ Feel free to connect with me!
 If you find my projects helpful, consider giving them a star ⭐️ on GitHub! Your support is appreciated.
 
 [![GitHub Stars](https://img.shields.io/github/stars/SPritamDas?style=social)](https://github.com/SPritamDas?tab=repositories)
+
