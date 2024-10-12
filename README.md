@@ -52,6 +52,8 @@ If you want to see other projects, click **[here](https://github.com/SPritamDas/
 
 ## 📈 GitHub Stats
 
+![Contribution Table](path/to/your/image.png)
+
 ![Shuvendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
