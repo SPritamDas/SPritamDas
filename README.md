@@ -64,5 +64,5 @@ I'm always open to collaborating on projects, discussing new opportunities, or c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shuvendupritamdas) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPritamDas) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac.in) 
-[![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](link_to_your_resume_here)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac) 
+[![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://docs.google.com/document/d/1uxEebGthoUiYuMNRXDkZz0OEDpbEkROQivDSnu2ARSU/export?format=pdf)
