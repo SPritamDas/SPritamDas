@@ -53,15 +53,20 @@ If you want to see other projects, click **[here](https://github.com/SPritamDas/
 ## 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
+
   <div style="flex: 1; margin-right: 10px;">
     ![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical&count_private=true)
   </div>
-  <div style="flex: 1; margin-left: 10px;">
+
+  <div style="flex: 1; margin-right: 10px;">
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
   </div>
-</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
+  <div style="flex: 1; margin-left: 10px;">
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
+  </div>
+
+</div>
 
 ---
 
