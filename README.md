@@ -27,13 +27,12 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 | **Generative AI**      | [![LLM](https://img.shields.io/badge/LLM-%234B8B3B.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Generative%20AI) |  |
 
 ---
+## 📚 Research Projects (Under Review)
 
-## 📚 Research Projects
-
-| Project                                                 | Description                                                                      | Tech Stack                            | Link                                                                                          |
-|---------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| 🚗 **Used Car Price Prediction (India)**                 | Developed a machine learning model to predict used car prices based on various factors in the Indian market | Python, scikit-learn, Pandas          | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Research/Used%20Car%20Price%20Prediction) |
-| 🔄 **Optimization of Used Car Procurement for Remanufacturing** | Conducted research to optimize the procurement process for used cars intended for remanufacturing purposes | Python, Linear Programming, Pandas    | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Research/Used%20Car%20Procurement%20Optimization) |
+| Project                                                 | Description                                                                      | Tech Stack                            | Journal Name                          | Paper Link                                                                                          |
+|---------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 🚗 **Used Car Price Prediction (India)** (Under Review)  | Developed a machine learning model to predict used car prices based on various factors in the Indian market | Python, scikit-learn, Pandas          | Journal of Data Science                | [View Paper](https://example.com/used-car-price-prediction)                                      |
+| 🔄 **Optimization of Used Car Procurement for Remanufacturing** (Under Review) | Conducted research to optimize the procurement process for used cars intended for remanufacturing purposes | Python, Linear Programming, Pandas    | Journal of Industrial Engineering      | [View Paper](https://example.com/used-car-procurement-optimization)                             |
 
 ---
 
@@ -48,8 +47,7 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 | ✍️ **Natural Language Processing (NLP)**     | Built text processing and classification models for sentiment analysis, named entity recognition, and text summarization | Python, NLTK, TensorFlow, Keras      | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Text/NLP)                   |
 | 🤖 **Chatbot Development**                   | Developed an AI chatbot to enhance customer experience and automate FAQ responses  | Python, NLP, TensorFlow               | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)      |
 
-If you want to see other projects, click [here](https://github.com/SPritamDas/Portfolio-Projects).
-
+If you want to see other projects, click **[here](https://github.com/SPritamDas/Portfolio-Projects)**.
 ---
 
 ## 📈 GitHub Stats
