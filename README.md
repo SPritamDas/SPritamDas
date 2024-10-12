@@ -16,12 +16,6 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
-
----
-
 ## 🔧 My Skills and Tools
 
 | **Domain**            | **Concepts & Techniques**                                                                 | **Tools & Technologies**                                                                                         |
@@ -53,7 +47,12 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 | ✍️ **Natural Language Processing (NLP)**     | Built text processing and classification models for sentiment analysis, named entity recognition, and text summarization | Python, NLTK, TensorFlow, Keras      | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Text/NLP)                   |
 | 🤖 **Chatbot Development**                   | Developed an AI chatbot to enhance customer experience and automate FAQ responses  | Python, NLP, TensorFlow               | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)      |
 
-If you want to see other projects, click **[here](https://github.com/SPritamDas/Portfolio-Projects)**.
+*If you want to see other projects, click **[here](https://github.com/SPritamDas/Portfolio-Projects)**.*
+
+---
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
 
 ---
 
