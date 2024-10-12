@@ -48,12 +48,20 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 | 🤖 **Chatbot Development**                   | Developed an AI chatbot to enhance customer experience and automate FAQ responses  | Python, NLP, TensorFlow               | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)      |
 
 If you want to see other projects, click **[here](https://github.com/SPritamDas/Portfolio-Projects)**.
+
 ---
 ## 📈 GitHub Stats
 
-![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    ![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical&count_private=true)
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
+  </div>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
 
 ---
 
