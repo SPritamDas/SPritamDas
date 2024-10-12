@@ -7,19 +7,18 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
-
----
-
 ## 📝 About Me
 
 I am a **Data Science** enthusiast with a passion for using data to uncover insights and build scalable solutions. Graduating from **IIT Dhanbad**, I thrive on creating data-driven models that enhance decision-making processes and drive innovation. Whether it’s building predictive models, developing AI solutions, or optimizing operations, I bring a versatile set of skills to the table.
 
 ### 🌱 Interests
 I enjoy participating in hackathons, contributing to open-source projects, and mentoring data science enthusiasts. I'm deeply interested in **operations**, **finance**, **sustainability**, and exploring ethical implications of **AI**.
+
+---
+
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
 
 ---
 
