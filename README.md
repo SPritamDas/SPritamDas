@@ -31,8 +31,8 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 
 | Project                                                 | Description                                                                      | Tech Stack                            | Journal Name                          | Paper Link                                                                                          |
 |---------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 🚗 **Used Car Price Prediction (India)** (Under Review)  | Developed a machine learning model to predict used car prices based on various factors in the Indian market | Python, scikit-learn, Pandas          | Journal of Data Science                | [View Paper](https://example.com/used-car-price-prediction)                                      |
-| 🔄 **Optimization of Used Car Procurement for Remanufacturing** (Under Review) | Conducted research to optimize the procurement process for used cars intended for remanufacturing purposes | Python, Linear Programming, Pandas    | Journal of Industrial Engineering      | [View Paper](https://example.com/used-car-procurement-optimization)                             |
+| 🚗 **Used Car Price Prediction (India)** (Under Review)  | Developed a machine learning model to predict used car prices based on various factors in the Indian market | Python, scikit-learn, Pandas          | -----              | [View Paper](https://example.com/used-car-price-prediction)                                      |
+| 🔄 **Optimization of Used Car Procurement for Remanufacturing** (On going) | Conducted research to optimize the procurement process for used cars intended for remanufacturing purposes | Python, Linear Programming, Pandas    | ------    | [View Paper](https://example.com/used-car-procurement-optimization)                             |
 
 ---
 
