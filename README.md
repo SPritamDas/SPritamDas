@@ -7,6 +7,13 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
+
+---
+
 ## 📝 About Me
 
 I am a **Data Science** enthusiast with a passion for using data to uncover insights and build scalable solutions. Graduating from **IIT Dhanbad**, I thrive on creating data-driven models that enhance decision-making processes and drive innovation. Whether it’s building predictive models, developing AI solutions, or optimizing operations, I bring a versatile set of skills to the table.
@@ -50,14 +57,6 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 If you want to see other projects, click **[here](https://github.com/SPritamDas/Portfolio-Projects)**.
 
 ---
-## 📈 GitHub Stats
-
-![Shuvendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SPritamDas&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
-
----
-
 
 ## 📬 Let's Connect
 
