@@ -26,6 +26,14 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 | **Deep Learning**      | [![ANN](https://img.shields.io/badge/ANN-%2300BFFF.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Deep%20Learning/ANN) [![CNN](https://img.shields.io/badge/CNN-%2300BFFF.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Deep%20Learning/CNN) [![RNN](https://img.shields.io/badge/RNN-%2300BFFF.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Deep%20Learning/RNN) [![Transformers](https://img.shields.io/badge/Transformers-%2300BFFF.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Deep%20Learning/Transformers) | [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF4500.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Tools/TensorFlow) [![Keras](https://img.shields.io/badge/Keras-%23FF4500.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Tools/Keras) |
 | **Generative AI**      | [![LLM](https://img.shields.io/badge/LLM-%234B8B3B.svg?style=flat-square)](https://github.com/SPritamDas/My-Materials/tree/main/Generative%20AI) |  |
 
+---
+
+## 📚 Research Projects
+
+| Project                                                 | Description                                                                      | Tech Stack                            | Link                                                                                          |
+|---------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------|
+| 🚗 **Used Car Price Prediction (India)**                 | Developed a machine learning model to predict used car prices based on various factors in the Indian market | Python, scikit-learn, Pandas          | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Research/Used%20Car%20Price%20Prediction) |
+| 🔄 **Optimization of Used Car Procurement for Remanufacturing** | Conducted research to optimize the procurement process for used cars intended for remanufacturing purposes | Python, Linear Programming, Pandas    | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Research/Used%20Car%20Procurement%20Optimization) |
 
 ---
 
@@ -33,12 +41,14 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 
 | Project                                      | Description                                                                      | Tech Stack                            | Link                                                                                          |
 |----------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| 📈 **Chatbot Development**                   | Developed an AI chatbot to enhance customer experience and automate FAQ responses | Python, NLP, TensorFlow               | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)      |
-| 🩺 **Pneumonia Detection from Chest X-rays**  | Created a deep learning model to detect pneumonia in X-rays with **92.45% accuracy** | Python, TensorFlow, Keras, OpenCV    | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Medical/Pneumonia%20Detection) |
-| 🧬 **Histopathologic Cancer Detection**       | Developed a CNN model for histopathological cancer detection                       | Python, TensorFlow, Keras             | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Medical/Cancer%20Detection) |
+| 📉 **Credit Risk Modelling**                 | Developed models for predicting Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD) using logistic and beta regression techniques | Python, SQL, scikit-learn            | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/Credit%20Risk%20Modelling) |
+| 📊 **Customer Analytics**                    | Implemented data-driven solutions for customer segmentation, retention, and lifetime value analysis | Python, SQL, Power BI, scikit-learn   | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Business/Customer%20Analytics)  |
 | 📉 **IPO Underpricing Prediction**            | Predicted IPO underpricing using MLP and LSTM models with **72% accuracy**         | Python, Pandas, scikit-learn          | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/IPO%20Underpricing) |
-| 📊 **Customer Churn Prediction**             | Implemented classification models to predict customer churn                       | Python, Pandas, scikit-learn          | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Business/Customer%20Churn)  |
-| ✍️ **Text Generation Using LSTM**             | Built an LSTM model for generating human-like text using **Recurrent Neural Networks** | Python, Keras, NLP                  | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Text/Text%20Generation)     |
+| 🩺 **Pneumonia Detection from Chest X-rays**  | Created a deep learning model to detect pneumonia in X-rays with **92.45% accuracy** | Python, TensorFlow, Keras, OpenCV    | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Medical/Pneumonia%20Detection) |
+| ✍️ **Natural Language Processing (NLP)**     | Built text processing and classification models for sentiment analysis, named entity recognition, and text summarization | Python, NLTK, TensorFlow, Keras      | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Text/NLP)                   |
+| 🤖 **Chatbot Development**                   | Developed an AI chatbot to enhance customer experience and automate FAQ responses  | Python, NLP, TensorFlow               | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)      |
+
+If you want to see other projects, click [here](https://github.com/SPritamDas/Portfolio-Projects).
 
 ---
 
