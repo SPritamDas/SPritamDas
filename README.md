@@ -3,7 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shuvendupritamdas) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPritamDas) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac) 
-[![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://docs.google.com/document/d/1uxEebGthoUiYuMNRXDkZz0OEDpbEkROQivDSnu2ARSU/export?format=pdf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FCA121.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/S_Pritam_Das/)
+[![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://docs.google.com/document/d/1uxEebGthoUiYuMNRXDkZz0OEDpbEkROQivDSnu2ARSU/export?format=pdf) 
 
 ---
 
@@ -59,8 +60,8 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 
 I'm always open to collaborating on projects, discussing new opportunities, or chatting about **AI**, **ML**, and **Data Science**. Feel free to reach out through any of the platforms below!
 <br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shuvendupritamdas) 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPritamDas) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mt0389@iitism.ac) 
-[![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://docs.google.com/document/d/1uxEebGthoUiYuMNRXDkZz0OEDpbEkROQivDSnu2ARSU/export?format=pdf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FCA121.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/S_Pritam_Das/)
+[![Resume](https://img.shields.io/badge/Download%20Resume-%2300BFFF.svg?style=for-the-badge&logo=pdf&logoColor=white)](https://docs.google.com/document/d/1uxEebGthoUiYuMNRXDkZz0OEDpbEkROQivDSnu2ARSU/export?format=pdf) 
