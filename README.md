@@ -38,25 +38,16 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 
 # Featured Projects
 
-## Overview
-This repository showcases various projects that utilize different machine learning and data analysis techniques. Below is a list of featured projects along with their descriptions, tech stacks, and links to the repositories.
 
-| Project                                      | Description                                                                      | Tech Stack                            | Link                                                                                          |
-|----------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| 💳 **Loan Approval Prediction**               | Built a machine learning model using ensemble methods, ANN, and AutoML to predict loan approvals | Python, scikit-learn, AutoML         | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/Loan%20Approval%20Prediction) |
-| 📉 **Credit Risk Modelling**                 | Developed models for predicting Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD) using logistic and beta regression techniques | Python, SQL, scikit-learn            | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/Credit%20Risk%20Modelling) |
-| 📊 **Customer Analytics**                    | Implemented data-driven solutions for customer segmentation, retention, and lifetime value analysis | Python, SQL, Power BI, scikit-learn   | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Business/Customer%20Analytics)  |
-| 📉 **IPO Underpricing Prediction**            | Predicted IPO underpricing using MLP and LSTM models with **72% accuracy**         | Python, Pandas, scikit-learn          | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/IPO%20Underpricing) |
-| 🩺 **Pneumonia Detection from Chest X-rays**  | Created a deep learning model to detect pneumonia in X-rays with **92.45% accuracy** | Python, TensorFlow, Keras, OpenCV    | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Medical/Pneumonia%20Detection) |
-| ✍️ **Natural Language Processing (NLP)**     | Built text processing and classification models for sentiment analysis, named entity recognition, and text summarization | Python, NLTK, TensorFlow, Keras      | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Text/NLP)                   |
-| 🤖 **Chatbot Development**                   | Developed an AI chatbot to enhance customer experience and automate FAQ responses  | Python, NLP, TensorFlow               | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)      |
-
-## How to Contribute
-Feel free to fork the repository, make changes, and submit pull requests. Contributions are welcome!
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
+| Project                                      | Description                                                                      | Tech Stack                            | Result                                  | Link                                                                                          |
+|----------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------|
+| 💳 **Loan Approval Prediction**               | Built a machine learning model using ensemble methods, ANN, and AutoML to predict loan approvals | Python, scikit-learn, AutoML         | High accuracy in loan approval prediction | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/Loan%20Approval%20Prediction) |
+| 📉 **Credit Risk Modelling**                 | Developed models for predicting Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD) using logistic and beta regression techniques | Python, SQL, scikit-learn            | Accurate PD, LGD, EAD predictions       | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/Credit%20Risk%20Modelling) |
+| 📊 **Customer Analytics**                    | Implemented data-driven solutions for customer segmentation, retention, and lifetime value analysis | Python, SQL, Power BI, scikit-learn   | Improved customer retention rates       | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Business/Customer%20Analytics)  |
+| 📉 **IPO Underpricing Prediction**            | Predicted IPO underpricing using MLP and LSTM models with **72% accuracy**         | Python, Pandas, scikit-learn          | **72% accuracy** in predictions        | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Financial/IPO%20Underpricing) |
+| 🩺 **Pneumonia Detection from Chest X-rays**  | Created a deep learning model to detect pneumonia in X-rays with **92.45% accuracy** | Python, TensorFlow, Keras, OpenCV    | **92.45% accuracy** in detection       | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Medical/Pneumonia%20Detection) |
+| ✍️ **Natural Language Processing (NLP)**     | Built text processing and classification models for sentiment analysis, named entity recognition, and text summarization | Python, NLTK, TensorFlow, Keras      | Effective sentiment classification      | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Text/NLP)                   |
+| 🤖 **Chatbot Development**                   | Developed an AI chatbot to enhance customer experience and automate FAQ responses  | Python, NLP, TensorFlow               | Improved customer engagement           | [View Project](https://github.com/SPritamDas/My-Projects/tree/main/Chatbot%20Development)      |
 
 *If you want to see other projects, click **[here](https://github.com/SPritamDas/Portfolio-Projects)**.*
 
