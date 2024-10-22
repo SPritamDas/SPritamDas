@@ -53,6 +53,12 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 For an overview of my entire portfolio, click **[here](https://github.com/SPritamDas/Portfolio-Projects)**.
 
 ---
+
+## 🏅 Certifications
+
+- [![Intermediate Machine Learning](https://img.shields.io/badge/PL--300-%2300BFFF.svg?style=flat-square)](https://www.your-certification-link.com) Kaggle: Intermediate Machine learner
+
+---
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SPritamDas&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPritamDas&layout=compact&theme=radical)
