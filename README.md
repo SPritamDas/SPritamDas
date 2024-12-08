@@ -37,7 +37,7 @@ I enjoy participating in hackathons, contributing to open-source projects, and m
 
 # 📚 Portfolio Projects  
 
-# Welcome to my portfolio showcasing diverse projects across Machine Learning, Deep Learning, and Data Analytics.
+Welcome to my portfolio showcasing diverse projects across Machine Learning, Deep Learning, and Data Analytics.
 
 | Project                                     | Description                                                                                 | Tech Stack                                | Result                                     | Link                                                                                              |
 |---------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------|
